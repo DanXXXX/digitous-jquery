@@ -1,3 +1,3 @@
 $(function () {
-    $('#text').css("float", "right");
+    $('#text').attr("float", "right");
 })
