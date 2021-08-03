@@ -1,7 +1,7 @@
 $(function () {
     $(".btn-success").click(function () {
        $("#square").animate({
-           textAlign: 'right'
+           left: 500
             }, 100, function () {
                 console.log("animation terminée");
             })
