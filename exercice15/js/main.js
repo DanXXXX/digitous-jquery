@@ -1,5 +1,5 @@
 $(function () {
     $(".btn-success").click(function () {
-       $("#text").addClass("float","right");
+       $("#text").addClass("text-float","float","right");
     })
 })
